@@ -1,4 +1,4 @@
-public class OOPS{
+public class LibraryMain{
 
     public static void main(String[] args) {
         LibraryBook AkashVoraTara = new LibraryBook("Akash Vora Tara" ,"Humayun Ahmed");
@@ -33,7 +33,7 @@ class LibraryBook{
         this.Author = NewAuthor;
     }
 
-    String getTitle(LibraryBook Book1){
+    String getTitle(){
         return this.title;
     }
 
@@ -77,4 +77,4 @@ class LibraryBook{
         }
     }
 
-}
+}  
