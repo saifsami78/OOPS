@@ -49,3 +49,6 @@ Prints all book details in a nice format.
 4. Try to borrow the **same book again**
 5. Return it
 6. Print info again to confirm status changed
+
+## Solution
+See See [`OOPS.java`](./OOPS.java)
