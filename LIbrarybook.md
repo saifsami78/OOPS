@@ -1,4 +1,4 @@
-# 📚 Library Book System
+#  Library Book System
 
 ## Problem
 Build a LibraryBook class that manages book borrowing.
@@ -15,4 +15,4 @@ Build a LibraryBook class that manages book borrowing.
 - getBookInfo() — prints all book details
 
 ## Solution
-See `OOPS.java`
+See See [`OOPS.java`](./OOPS.java)
